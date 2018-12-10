@@ -1,0 +1,68 @@
+.sidebar-logo {
+  width: 400px;
+  height: 230px;
+}
+
+.partner-icon {
+  width: 60px;
+  height: 60px;
+  margin: 15px;
+}
+
+.sidebar-content {
+  padding: 30px 40px;
+}
+
+.link-label {
+  color: lightskyblue;
+}
+
+.detail-label {
+  display: block;
+  font-size: 12px;
+  color: grey;
+  margin-top: 15px;
+}
+
+.location-label {
+  text-align: center;
+  color: grey;
+  clear: right;
+  font-size: 18px;
+}
+
+.country-label {
+  text-align: center;
+  color: lightgrey;
+  font-size: 13px;
+}
+
+.count-value {
+  font-size: 18px;
+  display: block;
+  color: lightgrey;
+}
+
+.count-label {
+  display: block;
+  color: lightgrey;
+  font-size: 12px;
+}
+
+.count-rect {
+  text-align: center;
+  margin: 20px;
+}
+
+.count-rect-item {
+  display: inline-block;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.footer-label {
+  color: grey;
+  font-size: 18px;
+  margin: 15px 0 0 0;
+  text-align: center;
+}

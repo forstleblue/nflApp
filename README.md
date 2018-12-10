@@ -56,3 +56,4 @@ The `server` runs node js server
 ## ScreenShot
 
 ![Alt text](app/screen/screen1.png?raw=true 'Player_ist')
+![Alt text](app/screen/screen2.png?raw=true 'Search Player')

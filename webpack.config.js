@@ -1,6 +1,5 @@
 const path = require('path');
 const webpack = require('webpack');
-const autoprefixer = require('autoprefixer');
 
 module.exports = {
   entry: ['babel-regenerator-runtime', path.resolve(__dirname, 'app/index.js')],
